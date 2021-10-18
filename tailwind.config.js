@@ -9,7 +9,11 @@ module.exports = {
           100: '#8d98ff',
           200: '#636bff',
         }
+      },
+      fontFamily: {
+        'body': ['Montserrat']
       }
+
     },
   },
   variants: {
